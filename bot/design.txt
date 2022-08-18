@@ -1,0 +1,9 @@
+button as button variations
+everything is a variations
+
+Probes - topwindow, button click, type
+
+type editor -  allows to define keystrokes and temporal distance between them.
+
+
+video -> images - > dedup-> iconify
